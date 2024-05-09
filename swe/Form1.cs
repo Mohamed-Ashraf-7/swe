@@ -55,5 +55,17 @@ namespace swe
             Form6 form = new Form6();
             form.Show();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Form7 form = new Form7();
+            form.Show();
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Form8 form = new Form8();
+            form.Show();
+        }
     }
 }
